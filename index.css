@@ -87,3 +87,6 @@ h1,h2,h4,p{
     width:400px;
     font-style: italic;
 }
+h1{
+    height: 200px;
+}
